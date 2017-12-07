@@ -1,0 +1,6 @@
+Credentials cache: API:1C1EAF86-E836-4966-99F2-FCE13305DD9B
+        Principal: lsauvage@42.FR
+
+  Issued                Expires               Principal
+Aug 28 16:07:46 2017  Sep  4 16:07:46 2017  krbtgt/42.FR@42.FR
+Aug 28 16:58:22 2017  Sep  4 16:07:46 2017  host/vgs-fn1.42.fr@42.FR

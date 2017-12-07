@@ -1,0 +1,2 @@
+# liste des fichiers et rep en ligne, separes par des virgules, rep avec /, tri par date de modif
+ls -l -tpmU
